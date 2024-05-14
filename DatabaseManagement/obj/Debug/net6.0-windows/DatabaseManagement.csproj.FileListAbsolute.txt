@@ -1,0 +1,17 @@
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\bin\Debug\net6.0-windows\DatabaseManagement.exe
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\bin\Debug\net6.0-windows\DatabaseManagement.deps.json
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\bin\Debug\net6.0-windows\DatabaseManagement.runtimeconfig.json
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\bin\Debug\net6.0-windows\DatabaseManagement.dll
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\bin\Debug\net6.0-windows\DatabaseManagement.pdb
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.csproj.AssemblyReference.cache
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.Form1.resources
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.csproj.GenerateResource.cache
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.AssemblyInfoInputs.cache
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.AssemblyInfo.cs
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.csproj.CoreCompileInputs.cache
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.dll
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\refint\DatabaseManagement.dll
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.pdb
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\DatabaseManagement.genruntimeconfig.cache
+E:\ESTEC-DoanXuanChinh\.NetProject\DatabaseManagement\DatabaseManagement\obj\Debug\net6.0-windows\ref\DatabaseManagement.dll
